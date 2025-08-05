@@ -1,4 +1,4 @@
-# The Last of Us Legacy - Java Game
+# Heroes-vs-Zombies - Java Game
 
 A Java-based strategic survival game inspired by The Last of Us, featuring turn-based gameplay with heroes, zombies, and resource management.
 
