@@ -168,5 +168,16 @@ This project showcases:
 - **Exception Handling**: Custom exception classes and error management
 
 ---
+## 🛡️ License
 
-*Built with Java and JavaFX | Inspired by The Last of Us* 
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Author
+
+**Momen H.**  
+📂 [GitHub Profile »](https://github.com/Momenh2)
+
+
+*Built with Java and JavaFX /* 
